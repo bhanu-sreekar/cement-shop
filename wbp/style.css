@@ -1,0 +1,39 @@
+h1{
+   text-align:center;
+}
+#s{
+   color:blue;
+   text-align:center;
+   font-style: italic;
+   font-size:40px;
+   text-decoration:underline;
+}
+#b{
+   padding:10px;
+   display:block;
+   font-size:1.5em;
+   text-align:center;
+   color:white;
+   background-color:red;
+   border:5px,solid,black;
+
+}
+#b:hover{
+   background-color:green;
+   
+}
+
+table,th,td{
+   border:solid,3px,black;
+   border-collapse:collapse;
+}
+table{
+   padding:10px;
+}
+th,td{
+   padding:20px;
+   font-size:1.5em;
+}
+th{
+   color:blue;
+}
